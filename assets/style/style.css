@@ -3,5 +3,17 @@
 
 .container{
     width: min(100% - 30px,1080px );
-    margin-inline: ;
+    margin-inline: 30px;
+}
+body{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: aqua;
+    height: 60px;
+    line-height: 60px;
+}
+h1{
+    font-weight: 600;
 }
