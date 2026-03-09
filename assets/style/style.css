@@ -17,3 +17,12 @@ header{
 h1{
     font-weight: 600;
 }
+    margin-inline: 50px;
+}
+header{
+    font-size: 50px;
+    color:aqua;
+}
+h1{
+    font-size: large;
+}
